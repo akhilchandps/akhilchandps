@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Akhil Chand PS</h1>
-<h3 align="center">A passionate Web and Mobile Application developer from kerala,India</h3>
+# 💫 About Me:
+I’m a passionate MERN Stack Developer. I am currently pursuing blockchain technology studies at Kerala Blockchain Academy in Thiruvananthapuram.I specialize in building full-stack web applications, delivering seamless user experiences from frontend to backend. With a strong foundation in React, Node.js, Express, and MongoDB, I create robust and scalable solutions. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.I specialize in building full-stack web applications, delivering seamless user experiences from frontend to backend. With a strong foundation in React, Node.js, Express, and MongoDB, I create robust and scalable solutions. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilchandps&label=Profile%20views&color=0e75b6&style=flat" alt="akhilchandps" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilchandps" alt="akhilchandps" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhil_cps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-chand-ps-489a9622b) 
 
-- 🌱 I’m currently learning **Blockhain Technology**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akhilchandps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akhilchandps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilchandps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+---
+[![](https://visitcount.itsvg.in/api?id=akhilchandps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **akhilchandps@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1sDZMD2RB2kWqyrBAvkCqAZPwGqOC-AzZ](https://drive.google.com/drive/u/0/folders/1sDZMD2RB2kWqyrBAvkCqAZPwGqOC-AzZ)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhil-chand-ps-489a9622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhil-chand-ps-489a9622b/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilchandps&show_icons=true&locale=en&layout=compact" alt="akhilchandps" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilchandps&show_icons=true&locale=en" alt="akhilchandps" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilchandps&" alt="akhilchandps" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
