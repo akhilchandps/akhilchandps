@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m a passionate MERN Stack Developer. I am currently pursuing blockchain technology studies at Kerala Blockchain Academy in Thiruvananthapuram.I specialize in building full-stack web applications, delivering seamless user experiences from frontend to backend. With a strong foundation in React, Node.js, Express, and MongoDB, I create robust and scalable solutions. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.I specialize in building full-stack web applications, delivering seamless user experiences from frontend to backend. With a strong foundation in React, Node.js, Express, and MongoDB, I create robust and scalable solutions. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.
+
+I’m a skilled MERN Stack Developer currently diving deep into blockchain technology at Kerala Blockchain Academy, Thiruvananthapuram. I specialize in designing and building dynamic full-stack web applications that provide seamless user experiences from frontend to backend. With expertise in React, Node.js, Express, and MongoDB, I create efficient, scalable, and robust solutions. I am passionate about solving challenging problems and transforming innovative ideas into functional, high-quality code.
 
 
 ## 🌐 Socials:
